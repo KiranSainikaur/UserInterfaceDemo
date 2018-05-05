@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UserInterfaceDemo</string>
+    <string name="edit_text">Enter a message</string>
+    <string name="button_label">Send</string>
+    <string name="Send_Message">Message</string>
+</resources>
